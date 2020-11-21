@@ -1,7 +1,7 @@
 # Traffic-light-drone-data-analysis-using-Transfer-Learning
 
 <p align="center">
-  <img width="260" height="150" src="https://images.hamodia.com/hamod-uploads/2019/05/AP19142720867246-1024x668.jpg">
+  <img width="800" height="600" src="https://images.hamodia.com/hamod-uploads/2019/05/AP19142720867246-1024x668.jpg">
 </p>
 
 ## Dataset
